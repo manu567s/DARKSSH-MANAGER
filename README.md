@@ -48,7 +48,7 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 
 ### Deploy Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/DARKSSH-MANAGER)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manu567s/DARKSSH-MANAGER)
 
 
 <details>
@@ -143,7 +143,7 @@ Download
 
 # Deploy User Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/DARKSSH-MANAGER)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manu567s/DARKSSH-MANAGER)
 
 # Tutorial 
 
@@ -208,7 +208,7 @@ By- [𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰](https://t.me/si
 sudo -s
 ```
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Dark; chmod 777 Dark; ./Dark
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/manu567s/DARKSSH-MANAGER/master/Dark; chmod 777 Dark; ./Dark
 
 ```
 
@@ -221,13 +221,13 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sb
 
 ![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/DARKSSH.jpg)
 
-[![Stars](https://img.shields.io/github/stars/sbatrow/DARKSSH-MANAGER?style=flat-square&color=yellow)](https://github.com/sbatrow/DARKSSH-MANAGER/stargazers)
-[![Forks](https://img.shields.io/github/forks/sbatrow/DARKSSH-MANAGER?style=flat-square&color=orange)](https://github.com/sbatrow/DARKSSH-MANAGER/fork)
-[![Size](https://img.shields.io/github/repo-size/sbatrow/DARKSSH-MANAGER?style=flat-square&color=green)](https://github.com/sbatrow/DARKSSH-MANAGER/)   
+[![Stars](https://img.shields.io/github/stars/sbatrow/DARKSSH-MANAGER?style=flat-square&color=yellow)](https://github.com/manu567s/DARKSSH-MANAGER/stargazers)
+[![Forks](https://img.shields.io/github/forks/sbatrow/DARKSSH-MANAGER?style=flat-square&color=orange)](https://github.com/manu567s/DARKSSH-MANAGER/fork)
+[![Size](https://img.shields.io/github/repo-size/sbatrow/DARKSSH-MANAGER?style=flat-square&color=green)](https://github.com/manu567s/DARKSSH-MANAGER/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sbatrow/DARKSSH-MANAGER/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sbatrow/DARKSSH-MANAGER)   
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/sbatrow/DARKSS-HMANAGER/graphs/contributors)        
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/manu567s/DARKSSH-MANAGER/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/manu567s/DARKSSH-MANAGER)   
+[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/manu567s/DARKSS-HMANAGER/graphs/contributors)        
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-GPL-blue)](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/LICENSE)
 
@@ -246,9 +246,9 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
                  
                                                           
                    @ Auto genarate                                                                                  @ Banner
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
+<img align="right" src="https://github.com/manu567s/DARKSSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
   
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/outo.jpg)                 
+![logo](https://github.com/manu567s/DARKSSH-MANAGER/blob/main/image/outo.jpg)                 
          
 **Manager Script**
 
